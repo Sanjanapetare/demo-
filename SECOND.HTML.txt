@@ -1,7 +1,6 @@
 <HTML>
 <HEAD>
-<TITLE>
-SECOND FILE </TITLE>
+<TITLE>   </TITLE>
 </HEAD>
 <BODY>
 <H1> HELLO </H1>
